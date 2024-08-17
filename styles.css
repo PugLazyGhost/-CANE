@@ -2,10 +2,9 @@ body, html {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #87CEEB; /* Sky blue background */
+    background: radial-gradient(circle, #000020, #00000070%);
 }
 
 canvas {
     display: block;
-    background: linear-gradient(to bottom, #87CEEB, #ffffff); /* Gradient sky */
 }
